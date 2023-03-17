@@ -79,7 +79,7 @@ html {
 }
 
 body {
-  background: var(--backgroundColor);
+  background: rgb(rgb(148, 143, 143), green, blue);
   color: var(--textColor);
   font-family: var(--bodyFont);
   font-weight: 400;
